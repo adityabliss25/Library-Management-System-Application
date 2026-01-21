@@ -42,5 +42,5 @@ The central hub of the application providing access to all modules.
 
 ### Inventory Management
 Displays the real-time status of books fetched from the SQLite database.
-![Book Inventory](Images/inventory.png)
+![Book Inventory](Images/OutputPage1.png)
 
