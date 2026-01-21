@@ -38,12 +38,9 @@ The system uses the `sqlite-jdbc` driver to bridge the Java application with the
 
 ### Main Dashboard
 The central hub of the application providing access to all modules.
-![Main Dashboard](screenshots/dashboard.png)
+![Main Dashboard](Images/OutputPage.png)
 
 ### Inventory Management
 Displays the real-time status of books fetched from the SQLite database.
-![Book Inventory](screenshots/inventory.png)
+![Book Inventory](Images/inventory.png)
 
-### Transaction System
-Example of the borrowing logic and successful database commit notification.
-![Issue Book Logic](screenshots/issue_success.png)
